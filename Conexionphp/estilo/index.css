@@ -1,0 +1,104 @@
+.jumbotron h1{
+    text-shadow: 2px 2px rgba(255,255,255,.5);
+}
+
+.jumbotron h1,p,l{
+    text-align: center
+
+}
+.fa fa-users,h3{
+    text-align: center;
+    font-size: 28px
+    
+}
+ 
+.jumbotron,li{
+    text-align: right
+}
+.container{
+    font-size:15px;
+}
+
+.thumbnail .caption h3{
+    text-align: center;
+    color: white;
+}
+
+*container{
+    width: 90%;
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.thumbnail{
+    
+    width: 90%;
+    max-width: 1300px;
+    margin: auto;
+}
+
+
+.portafolio-container{
+   display: flex;
+   justify-content: space-between;
+ 
+}
+
+.thumbnail{
+    width: 30%;
+    position: relative;
+    overflow: hidden;
+}
+
+.portafolio-img{
+    transition: all 0.5s;
+}
+.caption{
+    
+    position: absolute;
+    justify-content: center;
+    bottom: 0;
+    padding: 9px;
+    background: rgba(0,0,0,0.7);
+    transform: translateY(100%);
+    transition: all 0.5s ease-out;
+}
+.caption p{
+    color: white
+}
+.caption h3{
+    text-align: justify;
+}
+.thumbnail:hover .caption{
+    transform: translateY(0%);
+}
+.thumbnail:hover .portafolio-img{
+  transform: scale(1.15);
+}
+.Mensaje{
+    color: white;
+    text-align: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

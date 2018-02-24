@@ -1,0 +1,13 @@
+body{
+    background-image: url(../imagen/dog.jpg);
+    background-size: cover;
+}
+table tr{
+    border-color: black;
+    background-color:skyblue;
+}
+
+table th {
+    background-color:chartreuse;
+    
+}

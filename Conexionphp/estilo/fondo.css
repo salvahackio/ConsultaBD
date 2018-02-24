@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    background-image: url(../imagen/yome.png);
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: 100% 100vh;
+    
+}
+
+.navbar{
+    background-color: #000;
+    margin-bottom: 0;
+}
+

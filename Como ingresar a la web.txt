@@ -1,0 +1,13 @@
+1) importar la base de datos es un mysql
+2) abrir el archivo mediante xampp 
+3) el archivo se encuentra en Petshop/index.php
+4) el usuario es :
+          email: salva-2001@hotmail.com
+          password: olivares
+
+5) los codigos son: 123
+                    124
+                    125 
+                    126
+                    127
+
